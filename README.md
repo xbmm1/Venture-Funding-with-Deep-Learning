@@ -1,6 +1,6 @@
 # Venture-Funding-with-Deep-Learning
 <div style="float:left; margin-right:10px;">
-    <img src="Resources/brain.jpg" alt="WOWpicture" width="80" height="30">
+    <img src="Resources/brain.jpg" alt="WOWpicture" width="80" height="80">
 </div>
 
 ---
